@@ -1,0 +1,10 @@
+format: jb-book
+root: index
+
+parts:
+  - caption: Resources
+    chapters:
+      - url: https://rhodyprog4ds.github.io/BrownFall21/
+        title: Programming for Data Science
+      - url: https://ml4scisoc.github.io/about.html
+        title: ML for Science & Society
